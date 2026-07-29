@@ -45,8 +45,7 @@ int main(void)
 	cout<<dobj.no1<<"\t"<<dobj.no2<<"\t"<<endl;
 	cout<<base::no1<<"\t"<<derived::no1<<"\t"<<endl;
 	
-	return 0;
-	
+	return 0;	
 }
 /*
 In base
