@@ -25,6 +25,7 @@ class demo
 			//no2=20;
 		}
 };
+
 int main(void)
 {
 	demo obj1;
