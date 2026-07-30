@@ -36,8 +36,7 @@ int main(void)
 	cout<<obj2.no1<<"\t"<<obj2.no2<<"\t"<<endl;
 	cout<<demo::no1;
 	
-	return 0;
-	
+	return 0;	
 }
 /*
 4       4       4
